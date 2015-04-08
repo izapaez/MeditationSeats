@@ -37,7 +37,7 @@ void setup() {
   song1 = minim.loadFile("one.wav");
   song2 = minim.loadFile("two.wav");
   song3 = minim.loadFile("three.wav");
-  song4 = minim.loadFile("four.wav");
+  //song4 = minim.loadFile("four.wav");
   
   
   song1.play();
